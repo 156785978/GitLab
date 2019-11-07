@@ -1,3 +1,3 @@
 <? php
 
-echo "Oooh NooooO";
+echo "Oh NooooO";
